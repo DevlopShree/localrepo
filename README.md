@@ -60,8 +60,7 @@ way 2
 it lets you tell others about changes you pushed to a branch in a reposetory on GitHub.
 
 # to add changes from repo to local
-pull command
-git pull oringin main
+1. git pull oringin main - pull command
 
 # undo changes
 Case:
